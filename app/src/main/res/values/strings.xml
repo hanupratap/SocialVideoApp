@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">VideoApp</string>
+    <string name="agora_app_id">38ea706726734c2084648f389334d20b</string>
+    <string name="agora_access_token"></string>
+
+    <string name="facebook_application_id" translatable="false">1172709743103447</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb1172709743103447</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+
+</resources>
